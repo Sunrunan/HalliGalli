@@ -392,3 +392,6 @@ int main( int argc, char* args[] )
     clean_up();
     return 0;
 }
+int main(){
+	return 0;
+}
